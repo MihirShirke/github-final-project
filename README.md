@@ -18,3 +18,5 @@ Rate = 5%
 Time = 2 years
 
 Simple Interest = 100
+
+Minor typo fixed.
